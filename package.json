@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viresh1994/MyWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viresh1994/MyWeb/issues"
+  },
+  "homepage": "https://github.com/Viresh1994/MyWeb#readme"
+}
