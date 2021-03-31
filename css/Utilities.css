@@ -35,6 +35,13 @@
 }
 
 /*Background & Colored buttons */
+
+.bg-primary,
+.btn-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
 .bg-secondary,
 .btn-secondary {
   background-color: var(--secondary-color);
